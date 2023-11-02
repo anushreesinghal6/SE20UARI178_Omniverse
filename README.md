@@ -18,7 +18,4 @@ Animated avatars representing the occupants.
 
 
 
-Is this conversation helpful so far?
-
-
 
